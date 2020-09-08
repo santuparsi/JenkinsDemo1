@@ -13,7 +13,7 @@ namespace DemoApp.Controllers
     {
         public string Get()
         {
-            return "Hello Rahul..";
+            return "Hello G..";
         }
     }
 }
